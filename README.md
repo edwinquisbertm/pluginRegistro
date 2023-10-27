@@ -1,1 +1,1 @@
-# pluginWordPress
+# pluginRegistro en WordPress
